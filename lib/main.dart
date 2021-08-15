@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_day_3/Screens/NewsScreen.dart';
 import 'Screens/splashScreen.dart';
 
 void main() {
